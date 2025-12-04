@@ -1,5 +1,8 @@
 # STATIC
 STATIC ROUTING
+# Definition
+Static routing is a method of routing in which network routes are manually configured by a network administrator on a router. Unlike dynamic routing, static routes do not change automatically and require manual updates if the network topology changes.
+# Project Definition
 Two LAN networks (192.168.0.0/24 and 192.168.1.0/24) were connected via two routers through an intermediate network (192.168.2.0/24). Static routes were configured on both routers to enable proper communication between the LAN segments and the interconnecting network.
 
 # STATIC - ROUTING CLI - COMMANDS
